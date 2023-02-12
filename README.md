@@ -1,4 +1,4 @@
-#Publi_Finance_Project
+#Public_Finance_Project
 #### By **{Caroline Kinyua}**
 ## Description
 {This showcases Class Project
