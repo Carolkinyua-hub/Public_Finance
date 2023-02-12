@@ -1,0 +1,124 @@
+.image{
+	position: relative;;
+	width: 750px;
+	height: auto;	
+}
+.text{
+	position:absolute;
+	left: 240px;
+	right: auto;
+	top: 100px;
+	text-align: center;
+	color:white;
+}
+.about{
+  font-size: xx-small;
+	text-align:center;
+}
+#images{
+	position:relative;
+	width: 750px;
+	height: 200px;
+}
+.container{
+	position: relative;
+}
+.services{
+	font-size:xx-small;
+	position: absolute;
+	top:50px;
+	text-align: center;
+	color: white;
+	right: auto;
+	left: 150px;
+}
+.contact{
+	position: absolute;
+	font-size: xx-small;
+	top:50px;
+	right:auto;
+	left:100px;
+}
+#cimage{
+	position: relative;
+	height: 300px;
+	width:750px;
+}
+.title{
+	text-align: center;
+	font-size: small;
+	text-transform: uppercase;
+}
+.titles{
+	text-align: center;
+	font-size: small;
+	color: white;
+	opacity: 0.4;
+}
+.form-control{
+	font-size: xx-small;
+	color: white;
+	opacity: 0.8;
+}
+#start{
+	font-weight: 500;
+	text-shadow: white;
+	text-align: center;
+	line-height: 1;
+	font-size: 150%;
+	font-stretch:extra-condensed;
+	font-variant: small-caps;
+	font: outline;
+}
+#start2{
+	text-transform: uppercase;
+	font-size: xx-small;
+
+}
+.logo{
+	width: 50px;
+	height: auto;
+	position: relative;
+	top:10px;
+}
+.mouse{
+	width: 10px;
+	height: auto;
+	position: relative;
+	top:60px;
+}
+.icon{
+	width:10 px;
+	height: 30px;
+	
+}
+#titles{
+	font-size: small;
+}
+.work{
+	height: 50 px;
+	width:120px;
+}
+.hover1{
+	display: hidden ;
+}
+.col{
+
+	position: relative;
+	width: 40px;
+	height: 40px;	
+};
+.content{
+  max-width: 500px;
+  margin: auto;
+  background: white;
+	padding: 10px;
+	display: relative;
+}
+#sbmt{
+	font-size: xx-small;
+}
+#end{
+	text-align:center;
+	display:relative;
+}
